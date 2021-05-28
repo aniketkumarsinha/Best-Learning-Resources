@@ -25,6 +25,20 @@
 
 ### ⭐ Python
 
+---
+## Web Development
+
+#### > Books
+- [HTML and CSS: Design and Build Websites](https://amzn.to/3vzeOcv)
+- [Eloquent JavaScript](https://amzn.to/3utXTXE)
+- [JavaScript and JQuery: Interactive Front-End Web Development](https://amzn.to/34rJeS8)
+
+#### > Reading Docs
+- [W3Schools Web Development](https://www.w3schools.com/whatis/default.asp)
+- [MDN Web Docks - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+
+#### > Video Tutorials
+
 
 
 
