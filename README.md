@@ -46,7 +46,6 @@
 - [Complete Vuejs Developer Course - LearnCodeOnline](https://courses.learncodeonline.in/learn/Complete-VueJS-developer-course)
 - [FullStack Django - LearnCodeOnline](https://courses.learncodeonline.in/learn/FullStack-Django-Developer-Freelance-ready)
 - [Full Stack MERN Bootcamp - LearnCodeOnline](https://courses.learncodeonline.in/learn/Full-Stack-MERN-Bootcamp)
-- [Full Stack MERN Bootcamp - LearnCodeOnline](https://courses.learncodeonline.in/learn/Full-Stack-MERN-Bootcamp)
 - [Complete JavaScript - LearnCodeOnline](https://courses.learncodeonline.in/learn/Complete-Javascript-course)
 - [Beginner's Series to: JavaScript - Microsoft Developer](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 - [Web Development Full Course - edureka](https://youtu.be/Q33KBiDriJY)
