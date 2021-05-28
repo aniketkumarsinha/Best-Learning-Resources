@@ -35,10 +35,21 @@
 
 #### > Reading Docs
 - [W3Schools Web Development](https://www.w3schools.com/whatis/default.asp)
-- [MDN Web Docks - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+- [MDN Web Docs - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 
 #### > Video Tutorials
-
+- [Web Design for Everybody - Coursera](https://www.coursera.org/specializations/web-design)
+- [HTML, CSS, and Javascript for Web Developers - Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+- [Full-Stack Web Development with React Specialization - Coursera](https://www.coursera.org/specializations/full-stack-react)
+- [Full Stack Web Development with Angular - Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
+- [Django for Everybody - Coursera](https://www.coursera.org/specializations/django)
+- [Complete Vuejs Developer Course - LearnCodeOnline](https://courses.learncodeonline.in/learn/Complete-VueJS-developer-course)
+- [FullStack Django - LearnCodeOnline](https://courses.learncodeonline.in/learn/FullStack-Django-Developer-Freelance-ready)
+- [Full Stack MERN Bootcamp - LearnCodeOnline](https://courses.learncodeonline.in/learn/Full-Stack-MERN-Bootcamp)
+- [Full Stack MERN Bootcamp - LearnCodeOnline](https://courses.learncodeonline.in/learn/Full-Stack-MERN-Bootcamp)
+- [Complete JavaScript - LearnCodeOnline](https://courses.learncodeonline.in/learn/Complete-Javascript-course)
+- [Beginner's Series to: JavaScript - Microsoft Developer](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+- 
 
 
 
