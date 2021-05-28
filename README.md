@@ -36,6 +36,7 @@
 #### > Reading Docs
 - [W3Schools Web Development](https://www.w3schools.com/whatis/default.asp)
 - [MDN Web Docs - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+- [Web Development - GeeksforGeeks](https://www.geeksforgeeks.org/web-development/)
 
 #### > Video Tutorials
 - [Web Design for Everybody - Coursera](https://www.coursera.org/specializations/web-design)
