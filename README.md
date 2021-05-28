@@ -25,6 +25,17 @@
 
 ### ⭐ Python
 
+#### > Books
+- []()
+- 
+
+#### > Reading Docs
+- []()
+
+#### > Video Tutorials
+- []()
+##
+
 ---
 ## Web Development
 
