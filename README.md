@@ -48,6 +48,10 @@
 - [W3Schools Web Development](https://www.w3schools.com/whatis/default.asp)
 - [MDN Web Docs - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 - [Web Development - GeeksforGeeks](https://www.geeksforgeeks.org/web-development/)
+- [Documentation - ReactJs](https://reactjs.org/docs/getting-started.html)
+- [Documentation - Angular](https://angular.io/docs)
+- [Documentation - Django](https://docs.djangoproject.com/en/3.2/)
+- 
 
 #### > Video Tutorials
 - [Web Design for Everybody - Coursera](https://www.coursera.org/specializations/web-design)
