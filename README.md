@@ -1,3 +1,14 @@
+[![GitHub license](https://img.shields.io/github/license/aniket-sinha8/Best-Learning-Resources)](https://github.com/aniket-sinha8/Best-Learning-Resources/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<!--- [![GitHub contributors](https://img.shields.io/github/contributors/aniket-sinha8/Best-Learning-Resources.svg)](https://GitHub.com/aniket-sinha8/Best-Learning-Resources/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/aniket-sinha8/Best-Learning-Resources.svg)](https://GitHub.com/aniket-sinha8/Best-Learning-Resources/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/aniket-sinha8/Best-Learning-Resources.svg)](https://GitHub.com/aniket-sinha8/Best-Learning-Resources/pulls/) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+
+[![GitHub watchers](https://img.shields.io/github/watchers/aniket-sinha8/Best-Learning-Resources.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/aniket-sinha8/Best-Learning-Resources/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/aniket-sinha8/Best-Learning-Resources.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/aniket-sinha8/Best-Learning-Resources/network/) --->
+[![GitHub stars](https://img.shields.io/github/stars/aniket-sinha8/Best-Learning-Resources.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/aniket-sinha8/Best-Learning-Resources/stargazers/)
+
 # Best Learning Resources for every field(Web Dev, App Dev, ML, AI, Data Science, Blockchain, Graphic Designing, UI/UX Designing, DSA, etc.)
 --- 
 
@@ -51,7 +62,7 @@
 - [Documentation - ReactJs](https://reactjs.org/docs/getting-started.html)
 - [Documentation - Angular](https://angular.io/docs)
 - [Documentation - Django](https://docs.djangoproject.com/en/3.2/)
-- 
+- [Microsoft Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 #### > Video Tutorials
 - [Web Design for Everybody - Coursera](https://www.coursera.org/specializations/web-design)
