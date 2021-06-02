@@ -33,6 +33,32 @@
 - [Java Programming and Software Engineering Fundamentals - Coursera](https://www.coursera.org/specializations/java-programming)
 ##
 
+### ⭐ JavaScript
+
+#### > Books
+- [Eloquent JavaScript](https://amzn.to/34GqkqE)
+- [JavaScript and JQuery](https://amzn.to/34Df6TZ)
+- [Effective JavaScript](https://amzn.to/3yUSbBm)
+- [You Don′t Know JS](https://amzn.to/3uJZYi3)
+
+#### > Reading Docs
+- [MDN Web Docs - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [FreeCodeCamp - Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+- [GeeksforGeeks - JavaScript Tutorial](https://www.geeksforgeeks.org/javascript-tutorial/)
+- [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/)
+- [The Modern JavaScript Tutorial - JavaScript.info](https://javascript.info/)
+
+#### > Video Tutorials
+- [Modern JavaScript From The Beginning - Udemy](https://www.udemy.com/share/101Wqk/)
+- [JavaScript: Understanding the Weird Parts - Udemy](https://www.udemy.com/share/101XjU/)
+- [The Complete JavaScript Course 2021 - Udemy](https://www.udemy.com/share/101Wfe/)
+- [JavaScript Basics - Coursera](https://www.coursera.org/learn/javascript-basics)
+- [JavaScript, jQuery, and JSON - Coursera](https://www.coursera.org/learn/javascript-jquery-json)
+- [JavaScript Tutorial for Beginners - Programming with Mosh](https://youtu.be/W6NZfCO5SIk)
+- [JavaScript Tutorial for Beginners - Clever Programmer](https://youtu.be/Qqx_wzMmFeA)
+- [Learn JavaScript - freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg)
+- [JavaScript Tutorial In Hindi - CodeWithHarry](https://youtu.be/hKB-YGF14SY)
+##
 
 ### ⭐ Python
 
