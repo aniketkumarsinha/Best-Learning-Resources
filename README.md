@@ -58,6 +58,8 @@
 - [JavaScript Tutorial for Beginners - Clever Programmer](https://youtu.be/Qqx_wzMmFeA)
 - [Learn JavaScript - freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg)
 - [JavaScript Tutorial In Hindi - CodeWithHarry](https://youtu.be/hKB-YGF14SY)
+- [Beginner's Series to: JavaScript - Microsoft Developer](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+- [Javascript course - Hitesh Choudhary](https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 ##
 
 ### ⭐ Python
