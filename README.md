@@ -20,7 +20,7 @@
 
 #### > Books
 - [Java: The Complete Reference, Eleventh Edition](https://amzn.to/3uy26Jz)
-- 
+- [Head First Java](https://amzn.to/3ciPTSV)
 
 #### > Reading Docs
 - [Java Documentation](https://docs.oracle.com/javase/8/docs/)
