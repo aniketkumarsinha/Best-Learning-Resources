@@ -65,14 +65,13 @@
 ### ⭐ Python
 
 #### > Books
-- []()
-- 
-
-#### > Reading Docs
 - [Head First Python](https://amzn.to/3igG5Nb)
 - [Learn Python 3 the Hard Way](https://amzn.to/3w7ILAw)
 - [Fluent Python](https://amzn.to/3vVE8K1)
 - [xpert Python Programming](https://amzn.to/3uRwgYx)
+
+#### > Reading Docs
+- 
 
 #### > Video Tutorials
 - []()
