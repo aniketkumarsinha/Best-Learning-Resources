@@ -31,6 +31,8 @@
 - [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 - [Java Explorer - Oracle Universit](https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726)
 - [Java Programming and Software Engineering Fundamentals - Coursera](https://www.coursera.org/specializations/java-programming)
+- [Learn Java 8 - freeCodeCamp.org](https://youtu.be/grEKMHGYyns)
+- [Java Full Course - Edureka](https://youtu.be/hBh_CC5y8-s)
 ##
 
 ### ⭐ JavaScript
