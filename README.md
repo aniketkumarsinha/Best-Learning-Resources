@@ -71,6 +71,7 @@
 - [Learn Python 3 the Hard Way](https://amzn.to/3w7ILAw)
 - [Fluent Python](https://amzn.to/3vVE8K1)
 - [Expert Python Programming](https://amzn.to/3uRwgYx)
+- [Hands-On Machine Learning with Scikit-Learn, Keras and Tensor Flow: Concepts, Tools](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054/ref=sr_1_3?crid=1ARM8T59UOJMD&dchild=1&keywords=hands+on+machine+learning+with+scikit+learn&qid=1622984035&sprefix=hands+on+machine+%2Ccomputers%2C335&sr=8-3)
 
 #### > Reading Docs
 - 
@@ -111,6 +112,7 @@
 - [HTML and CSS Tutorials - FreeCodeCamp](https://youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88)
 - [The Web Developer Bootcamp 2021 - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - [The Complete 2021 Web Development Bootcamp - Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
 
 
 
