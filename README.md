@@ -111,7 +111,6 @@
 - [HTML and CSS Tutorials - FreeCodeCamp](https://youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88)
 - [The Web Developer Bootcamp 2021 - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - [The Complete 2021 Web Development Bootcamp - Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- 
 
 
 
