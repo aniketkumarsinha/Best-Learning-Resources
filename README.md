@@ -9,7 +9,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/aniket-sinha8/Best-Learning-Resources.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/aniket-sinha8/Best-Learning-Resources/network/) --->
 [![GitHub stars](https://img.shields.io/github/stars/aniket-sinha8/Best-Learning-Resources.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/aniket-sinha8/Best-Learning-Resources/stargazers/)
 
-# Best Learning Resources for every field(Web Dev, App Dev, ML, AI, Data Science, Blockchain, Graphic Designing, UI/UX Designing, DSA, etc.)
+# Best Learning Resources for every field(Web Dev, App Dev, ML, AI, Data Science, Blockchain, Graphic Designing, UI/UX Designing, DSA, CP etc.)
 --- 
 
 ## Programming Languages
@@ -112,8 +112,24 @@
 - [The Web Developer Bootcamp 2021 - Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - [The Complete 2021 Web Development Bootcamp - Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
+---
+## Competitive Programming
 
-
+### > Platforms to Practice : 
+- [Codeforces](http://codeforces.com/contests)
+- [Codechef](https://www.codechef.com)
+- [Leetcode](https://leetcode.com)
+- [GeeksForGeeks](https://geeksforgeeks.org)
+- [AtCoder](https://atcoder.jp/contests/)
+- [TopCoder](https://www.topcoder.com)
+- [SPOJ](https://www.spoj.com/users/lebron/)
+- [Hackerrank](https://www.hackerrank.com/dashboard)
+- [ProjectEuler](https://projecteuler.net/archives)
+- [HackerEarth](https://www.hackerearth.com/challenges/)
+- [DailyCodingProblem](https://www.dailycodingproblem.com)
+- [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
+- [Workattech DSA Interview Practice](https://workat.tech/problem-solving/practice?tags=dsa)
+- [Binarysearch](https://binarysearch.com/)
 
 
 
