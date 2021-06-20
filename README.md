@@ -14,7 +14,29 @@
 
 ## Programming Languages
 
-
+#### > Programming YouTube Channels
+- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+- [Aaron Jack](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)
+- [Ben Awad](https://www.youtube.com/user/99baddawg)
+- [CS Dojo](https://www.youtube.com/c/CSDojo/featured)
+- [Devon Crawford](https://www.youtube.com/c/DevonCrawford/featured)
+- [Mike Dane](https://www.youtube.com/c/GiraffeAcademy/featured)
+- [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
+- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
+- [Will Kwan](https://www.youtube.com/channel/UCTjPBE9BNsmv44wgxWEy2zw)
+- [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+- [Keith Galli](https://www.youtube.com/c/KGMIT/featured)
+- [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+- [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
+- [maria sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Asto Way](https://www.youtube.com/channel/UCQ2zUgxOwo5lzX11maTQmng)
+- [Kenny Gunderman](https://www.youtube.com/c/KennyGunderman/featured)
+- [Gerard Taylor](https://www.youtube.com/user/gerardonfiya/featured)
+- [mCoding](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
+- [Derek Banas](https://www.youtube.com/c/derekbanas/featured)
 
 ### ⭐ Java
 
